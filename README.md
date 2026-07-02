@@ -1,4 +1,4 @@
-# 🎨 The Artist's Mind
+# 🎨 The Artist's Mind 
 
 ## Overview
 
